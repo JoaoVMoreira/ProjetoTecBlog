@@ -1,5 +1,5 @@
 # Projeto TecBlog
-    Projeto HTML realizado a partir dos conhecimentos adquiridos no terceiro modulo do curso de desenvolvimento web do instrutor Jorge Sant.
+Projeto HTML realizado a partir dos conhecimentos adquiridos no terceiro modulo do curso de desenvolvimento web do instrutor Jorge Sant.
 
 O projeto foi desenvolvido com os materiais disponibilizados no proprio curso.
 
